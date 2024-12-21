@@ -21,9 +21,7 @@ class Wkaie:
             x.get(_priv)
             
             ddex = x.page_source
-            wkan = x.
-            
-            print(wkan)
+            ## 
             
             
         except:
